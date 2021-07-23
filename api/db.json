@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "test",
+      "description": "test",
+      "id": 1
+    },
+    {
+      "title": "Lunch Box 101",
+      "description": "This video stream will show you how to make 100 lunch boxes in 1 hour",
+      "id": 2
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "userId": "101944973360640587630",
+      "id": 3
+    },
+    {
+      "title": "test 2",
+      "description": "test 2",
+      "userId": "101944973360640587630",
+      "id": 4
+    }
+  ]
+}
